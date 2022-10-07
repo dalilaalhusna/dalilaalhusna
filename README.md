@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hola! 👋
+
+I'm Dalila. A Data Analyst from <img src='assets/img/myflag.png' width=15> Malaysia. 
+
+
+
 
 <!--
 **dalilaalhusna/dalilaalhusna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
