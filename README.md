@@ -1,4 +1,4 @@
-### Hola! 👋
+Hola! 👋
 
 I'm Dalila. A Data Analyst from <img src='assets/img/myflag.png' width=15> Malaysia. 
 
