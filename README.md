@@ -2,6 +2,8 @@ Hola! 👋
 
 I'm Dalila. A Data Analyst from <img src='assets/img/myflag.png' width=15> Malaysia. 
 
+<img src='assets/img/5344078.webp' class="center" width=200>
+
 
 
 
